@@ -1,0 +1,45 @@
+.about {
+  background-image: url("/pichcmus2.jpg");
+  height: 85%;
+  /* width: 1440px; */
+  width: 100%;
+  position: absolute;
+  background-size: 110% 110%;
+  background-repeat: no-repeat;
+  /* position: relative; */
+}
+.about1 {
+  font-size: 12px;
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 20%;
+  /* margin: 10% 25% 10%; */
+}
+.listpic {
+  display: flex;
+  width: max-content;
+  gap: 2rem;
+}
+.anh1 {
+  background-image: url("../../../public/pic2.png");
+  width: 691px;
+  height: 300px;
+  background-size: cover; /* or 'contain' */
+  background-position: center;
+  color: black;
+}
+.anh2 {
+  background-image: url("../../../public/pic3.jpg");
+  width: 150px;
+  height: 200px;
+  background-size: cover; /* or 'contain' */
+  background-position: center;
+}
+.anh3 {
+  color: black;
+  background-image: url("../../../public/pic4.png");
+  width: 278px;
+  height: 200px;
+  background-size: cover; /* or 'contain' */
+  background-position: center;
+}
