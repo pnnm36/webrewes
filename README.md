@@ -3,4 +3,5 @@
 ## Thực hiện bởi: Phan Nguyễn Nhật Minh.
 ## 2024.
 Folder Next: Folder xây dựng website hiển thị dữ liệu.
+
 File Lamrds: Folder code python cho dịch vụ Lambda của AWS.
